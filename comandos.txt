@@ -1,3 +1,5 @@
+OK - Professor Parisotto
+
 # como vincular um repositorio do GOTHUb com o visual code
 1 no GITHUB abra o repositorio e clique no botão CODE -> Local -> copiar link do repositorio
 2 No visual Code abra a pasta de seus projetos ( exemplo: Documentos/Python/ )
